@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sergi</h1>
+<h1 align="center">Hi 👋, I'm Sergi!</h1>
 <h3 align="center">Soy desarrollador web y actualmente estoy trabajando como Fullstack.</h3>
 <br/>
 
